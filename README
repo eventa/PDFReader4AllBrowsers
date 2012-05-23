@@ -1,1 +1,10 @@
 A simple PDF reader for full and correct render on all browsers.
+
+NOTES:
+
+The <embed> is use because all browsers supported this tag and render correctly, <iframe> and <object> caused some problems on our tests.
+
+The reader is worked with "javascript - document.write" because in pure HTML is impossible determinate 100% x 100% dimension of a embed tag.
+
+The "toolbar", "navpanes" and "scrollbar" are boolean attributes.
+
