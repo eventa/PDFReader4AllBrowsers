@@ -1,20 +1,22 @@
-<b>English:</b>
+#English:
 
-A simple web PDF reader for fully and correctly render on all browsers.
+    A simple web PDF reader for fully and correctly render on all browsers.
 
-<b>NOTES:</b>
+NOTES:
+======
 
-The <embed> tag is use because all browsers supported this tag and render correctly, <iframe> and <object> caused some problems on our tests.
-The reader is worked with “javascript - document.write” because in pure HTML is impossible determinate 100% x 100% dimension of a embed tag.
-The “toolbar”, “navpanes” and “scrollbar” are boolean attributes.
+    The <embed> tag is use because all browsers supported this tag and render correctly, <iframe> and <object> caused some problems on our tests.
+    The reader is worked with “javascript - document.write” because in pure HTML is impossible determinate 100% x 100% dimension of a embed tag.
+    The “toolbar”, “navpanes” and “scrollbar” are boolean attributes.
 
-<b>Español:</b>
+#Español:
 
-Un simple lector web de PDF para el complete y correcto renderizado en todos los navegadores.
+    Un simple lector web de PDF para el complete y correcto renderizado en todos los navegadores.
 
-<b>Notas:</b>
+Notas:
+======
 
-El tag <embed> es usado ya que todos los navegadores lo soportan y renderizan correctamente, los tags <iframe> y <object> causaron algunos problemas en nuestras pruebas.
-El lector esta trabajado con la propiedad de JavaScript “document.write” ya que en HTML puro es imposible determinar el 100% x 100% en las dimensiones del tag <embed>.
-Los atributos “toolbar”, “navpanes”, y “scrollbar” son boolean, es decir: verdaderos o falsos.
+    El tag <embed> es usado ya que todos los navegadores lo soportan y renderizan correctamente, los tags <iframe> y <object> causaron algunos problemas en nuestras pruebas.
+    El lector esta trabajado con la propiedad de JavaScript “document.write” ya que en HTML puro es imposible determinar el 100% x 100% en las dimensiones del tag <embed>.
+    Los atributos “toolbar”, “navpanes”, y “scrollbar” son boolean, es decir: verdaderos o falsos.
 
